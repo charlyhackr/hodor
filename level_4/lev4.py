@@ -302,4 +302,4 @@ for a, i in enumerate(proxies):
         if Gud >= votos or falla >= 100:
             break
 
-print("Finished: {}/{} votes.".format(Gud, votos))
+print("por fin: {}/{} votes.".format(Gud, votos))
